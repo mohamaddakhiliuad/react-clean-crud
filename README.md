@@ -30,8 +30,6 @@ This is not just a demo—it's a **template-level architecture** for building re
 
 Below is the clean and scalable folder structure implemented in this project: (Feature-Based Architecture)
 Below is the clean and scalable folder structure implemented in this project:
-
-```
 ش/
  ├─ features/
  │   ├─ users/
