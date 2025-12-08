@@ -130,7 +130,7 @@ This ensures clean and predictable server-state handling.
 
 ---
 
-## 🔍 Keywords (SEO Optimized)
+## 🔍 Keywords 
 - React Clean Architecture
 - React CRUD Template
 - Feature-Based Architecture React
