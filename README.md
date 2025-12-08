@@ -32,7 +32,7 @@ Below is the clean and scalable folder structure implemented in this project: (F
 Below is the clean and scalable folder structure implemented in this project:
 
 ```
-src/
+ش/
  ├─ features/
  │   ├─ users/
  │   │    ├─ api/
